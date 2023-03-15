@@ -13,4 +13,9 @@ public class Utility {
 		System.out.println("utility m1() method() by sonali");
 
 	}
+	public void m2() {
+
+		System.out.println("utility m2() method() by sonali");
+
+	}
 }
